@@ -1,12 +1,12 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A small, readable, statically typed language with a built-in web server",
   "homepage": "https://github.com/quenti77/qlang",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/quenti77/qlang/releases/download/v1.2.0/qlang-x86_64-pc-windows-msvc.zip",
-      "hash": "4acff827dba45ec4ec5bd43711c3e33731db2d18c80fc12138e5ce63763006fc",
+      "url": "https://github.com/quenti77/qlang/releases/download/v1.2.1/qlang-x86_64-pc-windows-msvc.zip",
+      "hash": "4bb1420d5118a328a0b06fd62a300242970f01148cfc607b3fe9a294df7d701e",
       "extract_dir": "qlang"
     }
   },
